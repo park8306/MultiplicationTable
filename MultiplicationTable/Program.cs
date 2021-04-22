@@ -6,7 +6,7 @@ namespace MultiplicationTable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("출력할 십오단을 입력하세요");
+            Console.WriteLine("출력할 십오단을 입력하세요!");
 
             string readString = Console.ReadLine();
 
